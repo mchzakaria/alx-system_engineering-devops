@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(Ôo)'"
+find -name "*.js" -type f -delete
